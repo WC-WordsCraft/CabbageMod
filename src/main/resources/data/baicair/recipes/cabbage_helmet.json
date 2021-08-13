@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "C C"
+  ],
+  "key": {
+    "C": {
+      "item": "baicair:chinese_cabbage"
+    }
+  },
+  "result": {
+    "item": "baicair:cabbage_helmet",
+    "count": 1
+  }
+}
